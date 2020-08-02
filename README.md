@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Dhiman</h1>
-<h3 align="center">A passionate Javascript and Pyhton developer from India</h3>
+<h3 align="center">A passionate Javascript and Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravdh9" alt="gauravdh9" /> </p>
 
