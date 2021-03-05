@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [animex.ninja](https://github.com/routayush1/animexninja)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning [**GoLang**](https://golang.org/)
 
 - 💬 Ask me about **react,Express,MongoDb,python,Javascript,Html,Css,**
 
