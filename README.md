@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [animex.ninja](https://github.com/routayush1/animexninja)
 
-- 🌱 I’m currently learning [**GoLang**](https://golang.org/)
-
 - 💬 Ask me about **react,Express,MongoDb,python,Javascript,Html,Css,**
 
 - 📫 How to reach me **gauravdh009@gmail.com**
