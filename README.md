@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravdh9" alt="gauravdh9" /></a> </p>
 
-- 🔭 I’m currently working on [animex.ninja](https://github.com/routayush1/animexninja)
+- 🔭 I’m currently learning [Golang](https://go.dev/)
 
 - 💬 Ask me about **react,Express,MongoDb,python,Javascript,Html,Css,**
 
